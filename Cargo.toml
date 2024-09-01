@@ -1,0 +1,9 @@
+[package]
+name = "lut"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5.16"
+image = "0.25.2"
+
